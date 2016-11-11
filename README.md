@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dilippanwar1/travis-broken-example.svg?branch=master)]
+![Build Status](https://travis-ci.org/dilippanwar1/travis-broken-example.svg?branch=master)
 
 # travis-broken-example
 
